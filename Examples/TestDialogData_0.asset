@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9ca184d2ea0b441a6aa3d474584262, type: 3}
+  m_Name: TestDialogData_0
+  m_EditorClassIdentifier: 
+  AudioEvents: []
+  dialogs:
+  - duration: 3
+    useExcel: 0
+    text: This is a raw text
+    subtitleID: 0
